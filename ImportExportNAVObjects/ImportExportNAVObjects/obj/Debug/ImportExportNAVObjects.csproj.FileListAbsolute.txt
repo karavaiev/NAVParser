@@ -1,0 +1,13 @@
+c:\users\o.karavaiev\documents\visual studio 2012\Projects\ImportExportNAVObjects\ImportExportNAVObjects\bin\Debug\ImportExportNAVObjects.exe.config
+c:\users\o.karavaiev\documents\visual studio 2012\Projects\ImportExportNAVObjects\ImportExportNAVObjects\bin\Debug\ImportExportNAVObjects.exe
+c:\users\o.karavaiev\documents\visual studio 2012\Projects\ImportExportNAVObjects\ImportExportNAVObjects\bin\Debug\ImportExportNAVObjects.pdb
+c:\users\o.karavaiev\documents\visual studio 2012\Projects\ImportExportNAVObjects\ImportExportNAVObjects\obj\Debug\ImportExportNAVObjects.csprojResolveAssemblyReference.cache
+c:\users\o.karavaiev\documents\visual studio 2012\Projects\ImportExportNAVObjects\ImportExportNAVObjects\obj\Debug\ImportExportNAVObjects.Properties.Resources.resources
+c:\users\o.karavaiev\documents\visual studio 2012\Projects\ImportExportNAVObjects\ImportExportNAVObjects\obj\Debug\ImportExportNAVObjects.csproj.GenerateResource.Cache
+c:\users\o.karavaiev\documents\visual studio 2012\Projects\ImportExportNAVObjects\ImportExportNAVObjects\obj\Debug\ImportExportNAVObjects.exe
+c:\users\o.karavaiev\documents\visual studio 2012\Projects\ImportExportNAVObjects\ImportExportNAVObjects\obj\Debug\ImportExportNAVObjects.pdb
+c:\users\o.karavaiev\documents\visual studio 2012\Projects\ImportExportNAVObjects\ImportExportNAVObjects\obj\Debug\ImportExportNAVObjects.MainForm.resources
+c:\users\o.karavaiev\documents\visual studio 2012\Projects\ImportExportNAVObjects\ImportExportNAVObjects\obj\Debug\ImportExportNAVObjects.SettingsForm.resources
+D:\Workspace\NAVParser\ImportExportNAVObjects\ImportExportNAVObjects\bin\Debug\ImportExportNAVObjects.exe.config
+D:\Workspace\NAVParser\ImportExportNAVObjects\ImportExportNAVObjects\obj\Debug\ImportExportNAVObjects.exe
+D:\Workspace\NAVParser\ImportExportNAVObjects\ImportExportNAVObjects\obj\Debug\ImportExportNAVObjects.pdb
